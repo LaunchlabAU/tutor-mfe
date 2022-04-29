@@ -1,1 +1,1 @@
-RUN npm install '@edx/brand@git+https://github.com/LaunchlabAU/brand-edx.org.git'
+RUN npm install '@edx/brand@git+https://github.com/LaunchlabAU/brand-openedx.git'
